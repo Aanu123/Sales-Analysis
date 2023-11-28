@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales Analysis
 
 ### Project Overview
 The sales analysis  provides insight into optmizing sales strategy for growth for an ecommerce company based on their past year sales.
@@ -20,13 +20,16 @@ Microsoft Excel
   - Sales by Region
   - Sales by Shipping Mode
   - Top 5 sales by Product
-### Result
+
+    ![sales dashboard](https://github.com/Aanu123/Sales-Analysis/assets/109156509/bb6c2414-1648-4c71-add5-a434b3fdfee0)
+
+### Results
 - The "Technology" category stands out with the highest sales.
 - The West region exhibits the highest sales performance.
 - "Phones" and "Chairs" are the top-selling products.
 - Standard shipping mode has the highest sales.
   
-### Recommendation
+### Recommendations
 - Allocate resources and marketing efforts to promote and expand the "Technology" category and also  Prioritize and expand the "Technology" category with new and innovative products.
 
 - Invest in marketing, distribution, and sales efforts in the West region, tailoring strategies to meet regional preferences
